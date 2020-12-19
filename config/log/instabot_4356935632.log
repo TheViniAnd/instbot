@@ -1,0 +1,500 @@
+2020-12-17 20:15:37,979 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-12-17 20:15:37,979 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/instabot/bot/bot.py
+2020-12-17 20:15:37,981 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-12-17 20:15:37,981 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-12-17 20:15:37,982 - instabot version: 0.117.0 (api_login) - INFO - Recovery from /1/instabots/config/lollipopstickshop_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=0b2f77c6-bb08-4074-9ab6-554f632fd8c7
+- uuid=e52a1da4-0235-44fc-b13d-b1e81951341b
+- client_session_id=c5bf2cf9-8ea6-45d8-b5c2-bc2fbb1f6a18
+- device_id=android-9dfc1158343142d1
+2020-12-17 20:15:37,982 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-12-17 20:15:40,470 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-12-17 20:15:42,094 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-12-17 20:15:42,101 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'lollipopstickshop'!
+2020-12-17 20:15:42,101 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /1/instabots/config/lollipopstickshop.checkpoint
+2020-12-17 20:15:42,864 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/lollipopstickshop/usernameinfo/ returned response: <Response [200]>
+2020-12-17 20:15:44,230 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/13377609248/info/ returned response: <Response [200]>
+2020-12-17 20:15:45,171 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/13377609248/followers/?rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b returned response: <Response [200]>
+2020-12-17 20:15:45,527 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/13377609248/followers/?rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&max_id=QVFCd19hZnJZTTR2Nkh2MFZkSEo0YmREUENhS2FYUHU1cnp2OHlEN1ZMam55YmVhLXFvZk5iUVJGdktaci1XVVdBWk5uQmljMlFleDNjcDlzMjZxVVA3dw== returned response: <Response [200]>
+2020-12-17 20:15:45,867 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/13377609248/followers/?rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&max_id=QVFDNWVtVnQ5X0dMYnUxRkotTDhrbElyaWhydkpBVGtIWXcyeEJQVlI0Z0dmS3pIXzEzRm1ldGExa1pabzhVLW5mVXBzMmNLc0M0WW82R1FYYXBjOWs0ZQ== returned response: <Response [200]>
+2020-12-17 20:15:45,870 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_10226574198's feed:
+2020-12-17 20:15:46,193 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/10226574198/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-17 20:15:46,193 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-17 20:21:13,192 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_12102378945's feed:
+2020-12-17 20:21:13,921 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/12102378945/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-17 20:21:13,921 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-17 20:27:22,921 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_13559108510's feed:
+2020-12-17 20:27:23,295 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/13559108510/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-17 20:27:23,295 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-17 20:32:09,293 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_13342272466's feed:
+2020-12-17 20:32:09,636 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/13342272466/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-17 20:32:09,637 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-17 20:34:52,646 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_13602447838's feed:
+2020-12-17 20:34:53,145 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/13602447838/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-17 20:34:53,146 - instabot version: 0.117.0 (bot_like) - INFO - Going to like 1 medias.
+2020-12-17 20:34:53,147 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2217740249803334032_13602447838", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "0", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-17 20:34:53,979 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2217740249803334032_13602447838/like/ returned response: <Response [200]>
+2020-12-17 20:34:53,979 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2217740249803334032_13602447838.
+2020-12-17 20:34:53,979 - instabot version: 0.117.0 (bot_like) - INFO - DONE: Total liked 1 medias.
+2020-12-17 20:38:47,981 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_11217417253's feed:
+2020-12-17 20:38:48,358 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/11217417253/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-17 20:38:48,358 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-17 20:44:02,364 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_13377308363's feed:
+2020-12-17 20:44:02,674 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/13377308363/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-17 20:44:02,674 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-17 20:47:03,689 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_12495290106's feed:
+2020-12-17 20:47:04,156 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/12495290106/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-17 20:47:04,158 - instabot version: 0.117.0 (bot_like) - INFO - Going to like 1 medias.
+2020-12-17 20:47:04,162 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2014793391899947577_12495290106", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "0", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-17 20:47:05,001 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2014793391899947577_12495290106/like/ returned response: <Response [200]>
+2020-12-17 20:47:05,001 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2014793391899947577_12495290106.
+2020-12-17 20:47:05,004 - instabot version: 0.117.0 (bot_like) - INFO - DONE: Total liked 2 medias.
+2020-12-17 20:51:37,002 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14244888659's feed:
+2020-12-17 20:51:37,289 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14244888659/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [400]>
+2020-12-17 20:51:37,290 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "Not authorized to view user", "status": "fail"}'
+2020-12-17 20:51:37,290 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2020-12-17 20:51:37,291 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Not authorized to view user
+2020-12-17 20:51:37,291 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2020-12-17 20:51:37,292 - instabot version: 0.117.0 (bot_get) - WARNING - This is a private account.
+2020-12-17 20:51:37,292 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-17 20:54:57,295 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14076518728's feed:
+2020-12-17 20:54:57,683 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14076518728/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-17 20:54:57,684 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-17 20:58:15,682 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_13550497715's feed:
+2020-12-17 20:58:16,755 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/13550497715/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-17 20:58:16,771 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-17 21:02:41,773 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14459706058's feed:
+2020-12-17 21:02:42,179 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14459706058/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-17 21:02:42,180 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-17 21:06:58,181 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_7686251835's feed:
+2020-12-17 21:06:58,492 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/7686251835/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [400]>
+2020-12-17 21:06:58,493 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "Not authorized to view user", "status": "fail"}'
+2020-12-17 21:06:58,493 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2020-12-17 21:06:58,493 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Not authorized to view user
+2020-12-17 21:06:58,493 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2020-12-17 21:06:58,493 - instabot version: 0.117.0 (bot_get) - WARNING - This is a private account.
+2020-12-17 21:06:58,494 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-17 21:10:46,497 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_13500020626's feed:
+2020-12-17 21:10:46,841 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/13500020626/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-17 21:10:46,841 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-17 21:16:33,844 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14434576144's feed:
+2020-12-17 21:16:35,006 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14434576144/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [400]>
+2020-12-17 21:16:35,007 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "Not authorized to view user", "status": "fail"}'
+2020-12-17 21:16:35,007 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2020-12-17 21:16:35,007 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Not authorized to view user
+2020-12-17 21:16:35,007 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2020-12-17 21:16:35,008 - instabot version: 0.117.0 (bot_get) - WARNING - This is a private account.
+2020-12-17 21:16:35,008 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-17 21:23:28,006 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_13829732091's feed:
+2020-12-17 21:23:28,359 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/13829732091/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-17 21:23:28,359 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-17 21:28:16,358 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_7696290153's feed:
+2020-12-17 21:28:16,766 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/7696290153/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [400]>
+2020-12-17 21:28:16,766 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "Not authorized to view user", "status": "fail"}'
+2020-12-17 21:28:16,766 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2020-12-17 21:28:16,767 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Not authorized to view user
+2020-12-17 21:28:16,767 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2020-12-17 21:28:16,767 - instabot version: 0.117.0 (bot_get) - WARNING - This is a private account.
+2020-12-17 21:28:16,767 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-17 21:35:08,777 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14006761076's feed:
+2020-12-17 21:35:09,234 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14006761076/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-17 21:35:09,238 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-17 21:41:27,233 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_13553752820's feed:
+2020-12-17 21:41:27,589 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/13553752820/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-17 21:41:27,590 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-17 21:45:22,587 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14421746666's feed:
+2020-12-17 21:45:22,904 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14421746666/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-17 21:45:22,904 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-17 21:51:53,906 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_11283660106's feed:
+2020-12-17 21:51:54,317 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/11283660106/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-17 21:51:54,318 - instabot version: 0.117.0 (bot_like) - INFO - Going to like 1 medias.
+2020-12-17 21:51:54,327 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "1986799094269770037_11283660106", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "0", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-17 21:51:55,088 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/1986799094269770037_11283660106/like/ returned response: <Response [200]>
+2020-12-17 21:51:55,088 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 1986799094269770037_11283660106.
+2020-12-17 21:51:55,091 - instabot version: 0.117.0 (bot_like) - INFO - DONE: Total liked 3 medias.
+2020-12-17 21:56:40,090 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14277457900's feed:
+2020-12-17 21:56:40,430 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14277457900/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-17 21:56:40,430 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-17 22:02:22,431 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14268530668's feed:
+2020-12-17 22:02:22,956 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14268530668/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-17 22:02:22,957 - instabot version: 0.117.0 (bot_like) - INFO - Going to like 1 medias.
+2020-12-17 22:02:22,958 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2057013066138176530_14268530668", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "0", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-17 22:02:23,700 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2057013066138176530_14268530668/like/ returned response: <Response [200]>
+2020-12-17 22:02:23,700 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2057013066138176530_14268530668.
+2020-12-17 22:02:23,701 - instabot version: 0.117.0 (bot_like) - INFO - DONE: Total liked 4 medias.
+2020-12-17 22:05:13,701 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_13110071756's feed:
+2020-12-17 22:05:14,367 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/13110071756/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-17 22:05:14,375 - instabot version: 0.117.0 (bot_like) - INFO - Going to like 18 medias.
+2020-12-17 22:09:37,428 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2228255604435016726_13110071756", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "0", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-17 22:09:39,007 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2228255604435016726_13110071756/like/ returned response: <Response [200]>
+2020-12-17 22:09:39,008 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2228255604435016726_13110071756.
+2020-12-17 22:18:11,415 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2228255199600794293_13110071756", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "1", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-17 22:18:12,156 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2228255199600794293_13110071756/like/ returned response: <Response [200]>
+2020-12-17 22:18:12,156 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2228255199600794293_13110071756.
+2020-12-17 22:21:50,632 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2228255027919329691_13110071756", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "2", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-17 22:21:51,492 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2228255027919329691_13110071756/like/ returned response: <Response [200]>
+2020-12-17 22:21:51,493 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2228255027919329691_13110071756.
+2020-12-17 22:24:37,529 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2228254837078680164_13110071756", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "3", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-17 22:24:38,383 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2228254837078680164_13110071756/like/ returned response: <Response [200]>
+2020-12-17 22:24:38,383 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2228254837078680164_13110071756.
+2020-12-17 22:30:29,742 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2228254404368968483_13110071756", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "4", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-17 22:30:30,493 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2228254404368968483_13110071756/like/ returned response: <Response [200]>
+2020-12-17 22:30:30,494 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2228254404368968483_13110071756.
+2020-12-17 22:40:34,414 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2068421445209503643_13110071756", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "5", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-17 22:40:35,387 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2068421445209503643_13110071756/like/ returned response: <Response [200]>
+2020-12-17 22:40:35,387 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2068421445209503643_13110071756.
+2020-12-17 22:45:24,706 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2068421210236139349_13110071756", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "6", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-17 22:45:25,555 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2068421210236139349_13110071756/like/ returned response: <Response [200]>
+2020-12-17 22:45:25,555 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2068421210236139349_13110071756.
+2020-12-17 22:50:30,143 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2068132102272066638_13110071756", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "7", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-17 22:50:31,275 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2068132102272066638_13110071756/like/ returned response: <Response [200]>
+2020-12-17 22:50:31,276 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2068132102272066638_13110071756.
+2020-12-17 22:56:47,715 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2068131748113370489_13110071756", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "8", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-17 22:56:48,673 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2068131748113370489_13110071756/like/ returned response: <Response [200]>
+2020-12-17 22:56:48,674 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2068131748113370489_13110071756.
+2020-12-17 23:07:38,083 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2068131431837601060_13110071756", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "9", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-17 23:07:38,863 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2068131431837601060_13110071756/like/ returned response: <Response [200]>
+2020-12-17 23:07:38,864 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2068131431837601060_13110071756.
+2020-12-17 23:11:58,203 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2068131114706441829_13110071756", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "10", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-17 23:11:59,073 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2068131114706441829_13110071756/like/ returned response: <Response [200]>
+2020-12-17 23:11:59,073 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2068131114706441829_13110071756.
+2020-12-17 23:20:58,916 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2068130783658394295_13110071756", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "11", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-17 23:20:59,691 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2068130783658394295_13110071756/like/ returned response: <Response [200]>
+2020-12-17 23:20:59,692 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2068130783658394295_13110071756.
+2020-12-17 23:31:27,234 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2068130521640228953_13110071756", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "12", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-17 23:31:28,338 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2068130521640228953_13110071756/like/ returned response: <Response [200]>
+2020-12-17 23:31:28,338 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2068130521640228953_13110071756.
+2020-12-17 23:42:55,746 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2068130443559087089_13110071756", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "13", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-17 23:42:56,645 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2068130443559087089_13110071756/like/ returned response: <Response [200]>
+2020-12-17 23:42:56,645 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2068130443559087089_13110071756.
+2020-12-17 23:54:04,430 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2068130031216953553_13110071756", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "14", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-17 23:54:05,539 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2068130031216953553_13110071756/like/ returned response: <Response [200]>
+2020-12-17 23:54:05,540 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2068130031216953553_13110071756.
+2020-12-17 23:59:22,704 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2068129881933301621_13110071756", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "15", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-17 23:59:23,494 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2068129881933301621_13110071756/like/ returned response: <Response [200]>
+2020-12-17 23:59:23,495 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2068129881933301621_13110071756.
+2020-12-18 00:02:31,891 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2068129132436403059_13110071756", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "16", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 00:02:32,700 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2068129132436403059_13110071756/like/ returned response: <Response [200]>
+2020-12-18 00:02:32,701 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2068129132436403059_13110071756.
+2020-12-18 00:35:23,829 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2068129006783303289_13110071756", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "17", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 00:35:24,898 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2068129006783303289_13110071756/like/ returned response: <Response [200]>
+2020-12-18 00:35:24,899 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2068129006783303289_13110071756.
+2020-12-18 00:35:24,903 - instabot version: 0.117.0 (bot_like) - INFO - DONE: Total liked 1 medias.
+2020-12-18 00:41:18,081 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14427513513's feed:
+2020-12-18 00:41:18,545 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14427513513/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 00:41:18,546 - instabot version: 0.117.0 (bot_like) - INFO - Going to like 1 medias.
+2020-12-18 00:43:47,744 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2056932339226666213_14427513513", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "0", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 00:43:48,556 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2056932339226666213_14427513513/like/ returned response: <Response [200]>
+2020-12-18 00:43:48,557 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2056932339226666213_14427513513.
+2020-12-18 00:43:48,558 - instabot version: 0.117.0 (bot_like) - INFO - DONE: Total liked 2 medias.
+2020-12-18 00:50:08,556 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14412965153's feed:
+2020-12-18 00:50:09,015 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14412965153/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 00:50:09,016 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 00:55:43,013 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14256460248's feed:
+2020-12-18 00:55:43,454 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14256460248/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 00:55:43,455 - instabot version: 0.117.0 (bot_like) - INFO - Going to like 1 medias.
+2020-12-18 00:55:43,464 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2057441650640287964_14256460248", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "0", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 00:55:44,160 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2057441650640287964_14256460248/like/ returned response: <Response [200]>
+2020-12-18 00:55:44,160 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2057441650640287964_14256460248.
+2020-12-18 00:55:44,161 - instabot version: 0.117.0 (bot_like) - INFO - DONE: Total liked 3 medias.
+2020-12-18 00:58:46,157 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_10125927511's feed:
+2020-12-18 00:58:46,481 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/10125927511/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [400]>
+2020-12-18 00:58:46,481 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "Not authorized to view user", "status": "fail"}'
+2020-12-18 00:58:46,481 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2020-12-18 00:58:46,484 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Not authorized to view user
+2020-12-18 00:58:46,484 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2020-12-18 00:58:46,484 - instabot version: 0.117.0 (bot_get) - WARNING - This is a private account.
+2020-12-18 00:58:46,484 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 01:03:00,484 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14079270995's feed:
+2020-12-18 01:03:00,798 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14079270995/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 01:03:00,799 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 01:09:34,794 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_9238510332's feed:
+2020-12-18 01:09:35,176 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/9238510332/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 01:09:35,177 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 01:14:06,176 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_8344785252's feed:
+2020-12-18 01:14:06,596 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/8344785252/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 01:14:06,597 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 01:20:56,600 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_5748384637's feed:
+2020-12-18 01:20:57,024 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/5748384637/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 01:20:57,028 - instabot version: 0.117.0 (bot_like) - INFO - Going to like 1 medias.
+2020-12-18 01:20:57,030 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "1562690369643373000_5748384637", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "0", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 01:20:57,901 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/1562690369643373000_5748384637/like/ returned response: <Response [200]>
+2020-12-18 01:20:57,902 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 1562690369643373000_5748384637.
+2020-12-18 01:20:57,902 - instabot version: 0.117.0 (bot_like) - INFO - DONE: Total liked 4 medias.
+2020-12-18 01:27:46,890 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14279634043's feed:
+2020-12-18 01:27:47,218 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14279634043/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 01:27:47,219 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 01:31:38,220 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_12562965457's feed:
+2020-12-18 01:31:38,577 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/12562965457/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [400]>
+2020-12-18 01:31:38,578 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "Not authorized to view user", "status": "fail"}'
+2020-12-18 01:31:38,578 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2020-12-18 01:31:38,578 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Not authorized to view user
+2020-12-18 01:31:38,578 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2020-12-18 01:31:38,578 - instabot version: 0.117.0 (bot_get) - WARNING - This is a private account.
+2020-12-18 01:31:38,578 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 01:36:52,579 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14103015065's feed:
+2020-12-18 01:36:53,114 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14103015065/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 01:36:53,115 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 01:41:40,122 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14250021963's feed:
+2020-12-18 01:41:40,620 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14250021963/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 01:41:40,620 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 01:45:54,628 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_12016800913's feed:
+2020-12-18 01:45:54,956 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/12016800913/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 01:45:54,957 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 01:52:49,961 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_8519962709's feed:
+2020-12-18 01:52:50,322 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/8519962709/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [400]>
+2020-12-18 01:52:50,323 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "Not authorized to view user", "status": "fail"}'
+2020-12-18 01:52:50,323 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2020-12-18 01:52:50,323 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Not authorized to view user
+2020-12-18 01:52:50,323 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2020-12-18 01:52:50,324 - instabot version: 0.117.0 (bot_get) - WARNING - This is a private account.
+2020-12-18 01:52:50,324 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 01:59:14,318 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_11632452470's feed:
+2020-12-18 01:59:14,650 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/11632452470/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [400]>
+2020-12-18 01:59:14,650 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "Not authorized to view user", "status": "fail"}'
+2020-12-18 01:59:14,650 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2020-12-18 01:59:14,651 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Not authorized to view user
+2020-12-18 01:59:14,651 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2020-12-18 01:59:14,651 - instabot version: 0.117.0 (bot_get) - WARNING - This is a private account.
+2020-12-18 01:59:14,651 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 02:04:43,647 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_13719380859's feed:
+2020-12-18 02:04:43,971 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/13719380859/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [400]>
+2020-12-18 02:04:43,971 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "Not authorized to view user", "status": "fail"}'
+2020-12-18 02:04:43,971 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2020-12-18 02:04:43,971 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Not authorized to view user
+2020-12-18 02:04:43,972 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2020-12-18 02:04:43,972 - instabot version: 0.117.0 (bot_get) - WARNING - This is a private account.
+2020-12-18 02:04:43,972 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 03:31:15,767 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_13793543938's feed:
+2020-12-18 03:31:16,129 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/13793543938/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 03:31:16,130 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 03:34:11,128 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_13595426619's feed:
+2020-12-18 03:34:11,770 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/13595426619/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 03:34:11,770 - instabot version: 0.117.0 (bot_like) - INFO - Going to like 1 medias.
+2020-12-18 03:34:11,772 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2045005606582077748_13595426619", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "0", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 03:34:13,097 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2045005606582077748_13595426619/like/ returned response: <Response [200]>
+2020-12-18 03:34:13,098 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2045005606582077748_13595426619.
+2020-12-18 03:34:13,098 - instabot version: 0.117.0 (bot_like) - INFO - DONE: Total liked 5 medias.
+2020-12-18 03:37:38,095 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14236150204's feed:
+2020-12-18 03:37:38,414 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14236150204/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 03:37:38,414 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 03:40:40,421 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14319585074's feed:
+2020-12-18 03:40:40,719 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14319585074/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 03:40:40,721 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 03:43:37,724 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_13499224672's feed:
+2020-12-18 03:43:38,144 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/13499224672/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 03:43:38,145 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 03:46:24,143 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14448178514's feed:
+2020-12-18 03:46:24,550 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14448178514/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 03:46:24,551 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 03:49:04,558 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_13774837771's feed:
+2020-12-18 03:49:04,858 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/13774837771/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [400]>
+2020-12-18 03:49:04,859 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "Not authorized to view user", "status": "fail"}'
+2020-12-18 03:49:04,859 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2020-12-18 03:49:04,859 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Not authorized to view user
+2020-12-18 03:49:04,859 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2020-12-18 03:49:04,859 - instabot version: 0.117.0 (bot_get) - WARNING - This is a private account.
+2020-12-18 03:49:04,859 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 03:51:50,866 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_13234764986's feed:
+2020-12-18 03:51:51,186 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/13234764986/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [400]>
+2020-12-18 03:51:51,186 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "Not authorized to view user", "status": "fail"}'
+2020-12-18 03:51:51,187 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2020-12-18 03:51:51,187 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Not authorized to view user
+2020-12-18 03:51:51,187 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2020-12-18 03:51:51,187 - instabot version: 0.117.0 (bot_get) - WARNING - This is a private account.
+2020-12-18 03:51:51,187 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 05:19:23,322 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_13762178708's feed:
+2020-12-18 05:19:23,881 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/13762178708/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 05:19:23,881 - instabot version: 0.117.0 (bot_like) - INFO - Going to like 1 medias.
+2020-12-18 05:19:23,883 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2047044378769447899_13762178708", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "0", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 05:19:24,909 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2047044378769447899_13762178708/like/ returned response: <Response [200]>
+2020-12-18 05:19:24,909 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2047044378769447899_13762178708.
+2020-12-18 05:19:24,910 - instabot version: 0.117.0 (bot_like) - INFO - DONE: Total liked 6 medias.
+2020-12-18 05:26:15,912 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14223091832's feed:
+2020-12-18 05:26:16,227 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14223091832/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 05:26:16,227 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 05:31:10,222 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_12732533051's feed:
+2020-12-18 05:31:10,647 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/12732533051/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 05:31:10,647 - instabot version: 0.117.0 (bot_like) - INFO - Going to like 1 medias.
+2020-12-18 05:31:10,649 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2022814004115691078_12732533051", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "0", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 05:31:11,336 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2022814004115691078_12732533051/like/ returned response: <Response [200]>
+2020-12-18 05:31:11,337 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2022814004115691078_12732533051.
+2020-12-18 05:31:11,337 - instabot version: 0.117.0 (bot_like) - INFO - DONE: Total liked 7 medias.
+2020-12-18 05:36:52,341 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_11880757638's feed:
+2020-12-18 05:36:52,794 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/11880757638/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 05:36:52,795 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 05:41:58,791 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14059077335's feed:
+2020-12-18 05:41:59,131 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14059077335/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 05:41:59,131 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 05:47:30,133 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14251669142's feed:
+2020-12-18 05:47:30,406 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14251669142/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 05:47:30,406 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 06:30:14,980 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_11867094894's feed:
+2020-12-18 06:30:15,356 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/11867094894/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 06:30:15,356 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 06:35:59,356 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14280489887's feed:
+2020-12-18 06:36:00,529 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14280489887/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 06:36:00,529 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 06:42:55,529 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14431427889's feed:
+2020-12-18 06:42:56,274 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14431427889/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 06:42:56,275 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 06:46:48,280 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14223400224's feed:
+2020-12-18 06:46:48,589 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14223400224/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 06:46:48,589 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 06:51:15,593 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_12073871309's feed:
+2020-12-18 06:51:16,093 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/12073871309/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 06:51:16,094 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 06:55:01,094 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_8561661303's feed:
+2020-12-18 06:55:01,582 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/8561661303/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 06:55:01,582 - instabot version: 0.117.0 (bot_like) - INFO - Going to like 1 medias.
+2020-12-18 06:55:01,584 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "1864758812168973386_8561661303", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "0", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 06:55:02,367 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/1864758812168973386_8561661303/like/ returned response: <Response [200]>
+2020-12-18 06:55:02,368 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 1864758812168973386_8561661303.
+2020-12-18 06:55:02,371 - instabot version: 0.117.0 (bot_like) - INFO - DONE: Total liked 8 medias.
+2020-12-18 08:18:38,477 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_13478821373's feed:
+2020-12-18 08:18:40,843 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/13478821373/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [400]>
+2020-12-18 08:18:40,843 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "Not authorized to view user", "status": "fail"}'
+2020-12-18 08:18:40,844 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2020-12-18 08:18:40,844 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Not authorized to view user
+2020-12-18 08:18:40,844 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2020-12-18 08:18:40,845 - instabot version: 0.117.0 (bot_get) - WARNING - This is a private account.
+2020-12-18 08:18:40,845 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 10:14:32,366 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_13765876053's feed:
+2020-12-18 10:14:32,801 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/13765876053/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [400]>
+2020-12-18 10:14:32,801 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "Not authorized to view user", "status": "fail"}'
+2020-12-18 10:14:32,801 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2020-12-18 10:14:32,803 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Not authorized to view user
+2020-12-18 10:14:32,803 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: {}
+2020-12-18 10:14:32,804 - instabot version: 0.117.0 (bot_get) - WARNING - This is a private account.
+2020-12-18 10:14:32,804 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 10:18:51,805 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_5549768983's feed:
+2020-12-18 10:18:52,150 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/5549768983/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 10:18:52,151 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 10:24:29,150 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_9472785497's feed:
+2020-12-18 10:24:29,770 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/9472785497/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 10:24:29,785 - instabot version: 0.117.0 (bot_like) - INFO - Going to like 12 medias.
+2020-12-18 10:24:29,794 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2060205038504248553_9472785497", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "0", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 10:24:30,618 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2060205038504248553_9472785497/like/ returned response: <Response [200]>
+2020-12-18 10:24:30,619 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2060205038504248553_9472785497.
+2020-12-18 10:27:09,856 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2059807133901762623_9472785497", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "1", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 10:27:10,673 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2059807133901762623_9472785497/like/ returned response: <Response [200]>
+2020-12-18 10:27:10,673 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2059807133901762623_9472785497.
+2020-12-18 10:30:19,209 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2058949283079998504_9472785497", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "2", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 10:30:20,113 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2058949283079998504_9472785497/like/ returned response: <Response [200]>
+2020-12-18 10:30:20,114 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2058949283079998504_9472785497.
+2020-12-18 10:35:50,096 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2058095205462406995_9472785497", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "3", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 10:35:50,869 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2058095205462406995_9472785497/like/ returned response: <Response [200]>
+2020-12-18 10:35:50,869 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2058095205462406995_9472785497.
+2020-12-18 10:46:21,854 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2058039335881852685_9472785497", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "4", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 10:46:22,680 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2058039335881852685_9472785497/like/ returned response: <Response [200]>
+2020-12-18 10:46:22,681 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2058039335881852685_9472785497.
+2020-12-18 10:54:24,884 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2058037669854038253_9472785497", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "5", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 10:54:26,417 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2058037669854038253_9472785497/like/ returned response: <Response [200]>
+2020-12-18 10:54:26,418 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2058037669854038253_9472785497.
+2020-12-18 11:05:07,204 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2057980496994344898_9472785497", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "6", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 11:05:07,961 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2057980496994344898_9472785497/like/ returned response: <Response [200]>
+2020-12-18 11:05:07,961 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2057980496994344898_9472785497.
+2020-12-18 11:11:03,171 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "1961508154517118389_9472785497", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "7", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 11:11:03,959 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/1961508154517118389_9472785497/like/ returned response: <Response [200]>
+2020-12-18 11:11:03,960 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 1961508154517118389_9472785497.
+2020-12-18 11:16:58,870 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "1957446217307066253_9472785497", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "8", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 11:16:59,640 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/1957446217307066253_9472785497/like/ returned response: <Response [200]>
+2020-12-18 11:16:59,640 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 1957446217307066253_9472785497.
+2020-12-18 11:25:30,049 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "1956738395304958922_9472785497", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "9", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 11:25:31,028 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/1956738395304958922_9472785497/like/ returned response: <Response [200]>
+2020-12-18 11:25:31,029 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 1956738395304958922_9472785497.
+2020-12-18 11:34:59,041 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "1956649340768861207_9472785497", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "10", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 11:34:59,967 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/1956649340768861207_9472785497/like/ returned response: <Response [200]>
+2020-12-18 11:34:59,968 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 1956649340768861207_9472785497.
+2020-12-18 11:40:08,523 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "1952136837942720151_9472785497", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "11", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 11:40:09,552 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/1952136837942720151_9472785497/like/ returned response: <Response [200]>
+2020-12-18 11:40:09,552 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 1952136837942720151_9472785497.
+2020-12-18 11:40:09,554 - instabot version: 0.117.0 (bot_like) - INFO - DONE: Total liked 20 medias.
+2020-12-18 11:45:36,556 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_11427489956's feed:
+2020-12-18 11:45:37,020 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/11427489956/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 11:45:37,022 - instabot version: 0.117.0 (bot_like) - INFO - Going to like 12 medias.
+2020-12-18 11:47:25,411 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2280613843708545456_11427489956", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "0", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 11:47:26,425 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2280613843708545456_11427489956/like/ returned response: <Response [200]>
+2020-12-18 11:47:26,426 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2280613843708545456_11427489956.
+2020-12-18 11:50:13,120 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2280613677286921242_11427489956", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "1", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 11:50:14,607 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2280613677286921242_11427489956/like/ returned response: <Response [200]>
+2020-12-18 11:50:14,608 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2280613677286921242_11427489956.
+2020-12-18 12:01:11,362 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2280613533153936608_11427489956", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "2", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 12:01:12,123 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2280613533153936608_11427489956/like/ returned response: <Response [200]>
+2020-12-18 12:01:12,123 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2280613533153936608_11427489956.
+2020-12-18 12:10:30,735 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2280613413070948811_11427489956", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "3", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 12:10:31,686 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2280613413070948811_11427489956/like/ returned response: <Response [200]>
+2020-12-18 12:10:31,687 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2280613413070948811_11427489956.
+2020-12-18 12:15:34,572 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2280613246875755959_11427489956", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "4", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 12:15:35,357 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2280613246875755959_11427489956/like/ returned response: <Response [200]>
+2020-12-18 12:15:35,357 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2280613246875755959_11427489956.
+2020-12-18 12:22:00,611 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2280613059046667371_11427489956", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "5", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 12:22:01,510 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2280613059046667371_11427489956/like/ returned response: <Response [200]>
+2020-12-18 12:22:01,510 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2280613059046667371_11427489956.
+2020-12-18 12:32:43,874 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2280612931976000752_11427489956", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "6", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 12:32:44,807 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2280612931976000752_11427489956/like/ returned response: <Response [200]>
+2020-12-18 12:32:44,807 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2280612931976000752_11427489956.
+2020-12-18 12:38:27,036 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2280612803856627680_11427489956", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "7", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 12:38:27,936 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2280612803856627680_11427489956/like/ returned response: <Response [200]>
+2020-12-18 12:38:27,936 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2280612803856627680_11427489956.
+2020-12-18 12:45:55,001 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2280612520304920271_11427489956", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "8", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 12:45:55,754 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2280612520304920271_11427489956/like/ returned response: <Response [200]>
+2020-12-18 12:45:55,755 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2280612520304920271_11427489956.
+2020-12-18 12:54:49,858 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2280612389711186190_11427489956", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "9", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 12:54:50,611 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2280612389711186190_11427489956/like/ returned response: <Response [200]>
+2020-12-18 12:54:50,612 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2280612389711186190_11427489956.
+2020-12-18 13:06:03,914 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2280612287881829156_11427489956", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "10", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 13:06:04,876 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2280612287881829156_11427489956/like/ returned response: <Response [200]>
+2020-12-18 13:06:04,877 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2280612287881829156_11427489956.
+2020-12-18 13:10:13,337 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2280612120403149128_11427489956", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "11", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 13:10:14,139 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2280612120403149128_11427489956/like/ returned response: <Response [200]>
+2020-12-18 13:10:14,140 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2280612120403149128_11427489956.
+2020-12-18 13:10:14,140 - instabot version: 0.117.0 (bot_like) - INFO - DONE: Total liked 32 medias.
+2020-12-18 13:13:22,141 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14207774958's feed:
+2020-12-18 13:13:22,489 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14207774958/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 13:13:22,492 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 13:18:07,492 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14429906650's feed:
+2020-12-18 13:18:07,918 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14429906650/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 13:18:07,919 - instabot version: 0.117.0 (bot_like) - INFO - Going to like 1 medias.
+2020-12-18 13:19:21,133 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2057627177794315689_14429906650", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "0", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 13:19:21,955 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2057627177794315689_14429906650/like/ returned response: <Response [200]>
+2020-12-18 13:19:21,956 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2057627177794315689_14429906650.
+2020-12-18 13:19:21,964 - instabot version: 0.117.0 (bot_like) - INFO - DONE: Total liked 33 medias.
+2020-12-18 13:23:15,965 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14107037476's feed:
+2020-12-18 13:23:16,321 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14107037476/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 13:23:16,322 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 13:27:23,328 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_13986519994's feed:
+2020-12-18 13:27:23,700 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/13986519994/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 13:27:23,700 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 13:31:33,703 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14275394956's feed:
+2020-12-18 13:31:34,132 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14275394956/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 13:31:34,133 - instabot version: 0.117.0 (bot_like) - INFO - Going to like 3 medias.
+2020-12-18 13:31:34,135 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2057493596350112952_14275394956", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "0", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 13:31:34,787 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2057493596350112952_14275394956/like/ returned response: <Response [200]>
+2020-12-18 13:31:34,787 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2057493596350112952_14275394956.
+2020-12-18 13:40:22,368 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2057493502280164857_14275394956", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "1", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 13:40:23,225 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2057493502280164857_14275394956/like/ returned response: <Response [200]>
+2020-12-18 13:40:23,225 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2057493502280164857_14275394956.
+2020-12-18 13:47:57,088 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2057493453928317534_14275394956", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "2", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 13:47:57,854 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2057493453928317534_14275394956/like/ returned response: <Response [200]>
+2020-12-18 13:47:57,854 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2057493453928317534_14275394956.
+2020-12-18 13:47:57,856 - instabot version: 0.117.0 (bot_like) - INFO - DONE: Total liked 36 medias.
+2020-12-18 13:52:50,854 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_14019095585's feed:
+2020-12-18 13:52:51,172 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/14019095585/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 13:52:51,173 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 13:58:20,171 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_11211334613's feed:
+2020-12-18 13:58:21,242 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/11211334613/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 13:58:21,243 - instabot version: 0.117.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-12-18 14:02:43,247 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_7207951142's feed:
+2020-12-18 14:02:43,740 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/7207951142/?max_id=&min_timestamp=None&rank_token=13377609248_e52a1da4-0235-44fc-b13d-b1e81951341b&ranked_content=true returned response: <Response [200]>
+2020-12-18 14:02:43,748 - instabot version: 0.117.0 (bot_like) - INFO - Going to like 14 medias.
+2020-12-18 14:02:43,751 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2435100148486672322_7207951142", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "0", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 14:02:44,547 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2435100148486672322_7207951142/like/ returned response: <Response [200]>
+2020-12-18 14:02:44,548 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2435100148486672322_7207951142.
+2020-12-18 14:05:15,603 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2071302790474843229_7207951142", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "1", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 14:05:16,398 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2071302790474843229_7207951142/like/ returned response: <Response [200]>
+2020-12-18 14:05:16,400 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2071302790474843229_7207951142.
+2020-12-18 14:11:57,551 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2056789671652209869_7207951142", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "2", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "e52a1da4-0235-44fc-b13d-b1e81951341b", "_uid": "13377609248", "_csrftoken": "vHD7dwsHtzt7tmRTTdvOI5Z3qCxXQpFe"}
+2020-12-18 14:11:58,288 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2056789671652209869_7207951142/like/ returned response: <Response [200]>
+2020-12-18 14:11:58,288 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2056789671652209869_7207951142.

@@ -1,0 +1,32 @@
+2020-12-18 14:19:49,835 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-12-18 14:19:49,835 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/instabot/bot/bot.py
+2020-12-18 14:19:49,837 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-12-18 14:19:49,837 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-12-18 14:19:49,837 - instabot version: 0.117.0 (api_login) - INFO - Recovery from /1/instabots/test/config/lollipopstickshop_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=018ad0b3-bbe1-4565-8248-b7b71d2fa05d
+- uuid=206b641f-97cf-4f19-9437-8e4191979d18
+- client_session_id=e5505e3b-2fe3-4e8c-bf7d-b84d769a68db
+- device_id=android-9dfc1158343142d1
+2020-12-18 14:19:49,838 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-12-18 14:19:52,639 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-12-18 14:19:53,605 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-12-18 14:19:55,237 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-12-18 14:19:55,614 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-12-18 14:19:56,584 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/inbox/ returned response: <Response [200]>
+2020-12-18 14:19:57,254 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2020-12-18 14:19:58,210 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/?limited_activity=true&show_su=true returned response: <Response [200]>
+2020-12-18 14:19:58,458 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/profile_notice/ returned response: <Response [200]>
+2020-12-18 14:19:59,919 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: discover/explore/ returned response: <Response [200]>
+2020-12-18 14:19:59,924 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'lollipopstickshop'!
+2020-12-18 14:19:59,924 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /1/instabots/test/config/lollipopstickshop.checkpoint
+2020-12-18 14:20:00,326 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/theviniand/usernameinfo/ returned response: <Response [200]>
+2020-12-18 14:20:00,707 - instabot version: 0.117.0 (bot_like) - INFO - Liking user_1983057244's feed:
+2020-12-18 14:20:01,975 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: feed/user/1983057244/?max_id=&min_timestamp=None&rank_token=13377609248_206b641f-97cf-4f19-9437-8e4191979d18&ranked_content=true returned response: <Response [200]>
+2020-12-18 14:20:01,977 - instabot version: 0.117.0 (bot_like) - INFO - Going to like 18 medias.
+2020-12-18 14:20:02,012 - instabot version: 0.117.0 (api) - DEBUG - post data: {"inventory_source": "media_or_ad", "media_id": "2411215813016358802_1983057244", "radio_type": "wifi-none", "container_module": "feed_timeline", "feed_position": "0", "is_carousel_bumped_post": "false", "device_id": "android-9dfc1158343142d1", "_uuid": "206b641f-97cf-4f19-9437-8e4191979d18", "_uid": "13377609248", "_csrftoken": "dMXRtXcrtHYowo8VW39QsHTex9TUlhbE"}
+2020-12-18 14:20:02,786 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/2411215813016358802_1983057244/like/ returned response: <Response [200]>
+2020-12-18 14:20:02,787 - instabot version: 0.117.0 (bot_like) - INFO - Liked media 2411215813016358802_1983057244.
+2020-12-18 14:20:16,055 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /1/instabots/test/config/lollipopstickshop.checkpoint
+2020-12-18 14:20:16,061 - instabot version: 0.117.0 (bot) - INFO - Total likes: 1/91
+2020-12-18 14:20:16,062 - instabot version: 0.117.0 (bot) - INFO - Total requests: 41
