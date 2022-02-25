@@ -11,7 +11,7 @@ from work_class.get_users import get_id_user
 from work_class.like_user import like_users_media
 
 USERNAME = "lollipopstickshop"
-PASSWORD = "vpluskravnolove"
+PASSWORD = "**"
 user_login = 'lhofmannita'
 
 def main():
