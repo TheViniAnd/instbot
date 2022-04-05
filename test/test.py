@@ -9,7 +9,7 @@ import json
 import os
 
 USERNAME = "lollipopstickshop"
-PASSWORD = "vpluskravnolove"
+PASSWORD = ""
 
 bot = instabot.Bot()
 bot.login(username=USERNAME, password=PASSWORD, ask_for_code=True)
